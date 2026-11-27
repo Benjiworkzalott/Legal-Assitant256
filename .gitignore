@@ -1,2 +1,3 @@
 # Environments
 .venv/
+.ruff_cache/
