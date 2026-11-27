@@ -1,1 +1,1 @@
- test 2
+This repo serves as training for companies.
